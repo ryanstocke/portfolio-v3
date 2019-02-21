@@ -2,10 +2,10 @@
   "main": {
     "name": "Ryan Stocke",
     "occupation": "Full Stack Web Developer",
-    "description": "Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description": "PLACE HOLDER",
     "image": "profilepic.jpg",
-    "bio": "Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "bio": "BIO Section",
+    "contactmessage": "Contact",
     "email": "ryanstocke@gmail.com",
     "phone": "314-591-3223",
     "address": {
@@ -31,7 +31,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Tech/skills",
     "education": [
       {
         "school": "University of Denver",

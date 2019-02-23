@@ -2,19 +2,18 @@
   "main": {
     "name": "Ryan Stocke",
     "occupation": "Full Stack Web Developer",
-    "description": "PLACE HOLDER",
-    "image": "profilepic.jpg",
-    "bio": "BIO Section",
+    "description": "looking for fulltime employment",
+    "image": "dying-z.png",
+    "bio": "Dedicated full stack web developer with the capability to balance multiple priorities in fast-paced environments. Detailed oriented worker with a proven ability to improve processes and implement change for benefit of the larger organization. Leadership and management experience, having managed full-time employees and interns. Collaborative team player with the ability to work across multiple functions in an agile project management environment.",
     "contactmessage": "Contact",
     "email": "ryanstocke@gmail.com",
     "phone": "314-591-3223",
     "address": {
-      "street": "1424 S Logan St",
       "city": "Denver",
       "state": "Colorado",
       "zip": "80210"
     },
-    "website": "",
+    "website": "https://rms-portfolio-v3.herokuapp.com/",
     "resumedownload": "https://docs.google.com/document/d/1PaJlmQnMdKcRdEK7DEWOexPn6JnQ4g7enlNFHz-Dwj0/edit?usp=sharing",
     "social": [
       {
@@ -31,18 +30,18 @@
     ]
   },
   "resume": {
-    "skillmessage": "Tech/skills",
+    "skillmessage": "",
     "education": [
       {
         "school": "University of Denver",
         "degree": "Full Stack Web Development",
-        "graduated": " 2019",
-        "description": "Certified Full Stack Web Developer"
+        
+        "description": "Certified Full Stack Web Developer. Gained the technical skills to build full-stack applications from concept to deployment. Collaborated with peers to deliver functioning products with scalability. Troubleshooted issues with development as well as production deployment."
         },
       {
         "school": "University of Missouri Columbia",
         "degree": "Bachelor of Arts",
-        "graduated": " 2012",
+        
         "description": "Major in Psychology, with Minor in Business Administration"
       }
     ],
@@ -50,8 +49,8 @@
       {
         "company": "Children's Hospital Colorado",
         "title": "Professional Technology Trainer ",
-        "years": "March 2010 - Present",
-        "description": "Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "years": "October 2015 - October 2018",
+        "description": "Assists with designing and creating training programs, multimedia courses, computer-based training (CBT), web-based training programs, online learning modules, and online help for all levels of end-users and IT professionals. Set up training and development environments to test the delivery of the training to meet course needs. Creates and maintains technical documentation and instruction material. Delivers training to a variety of audiences utilizing and applying adult learning principles."
       },
       {
         "company": "SSM Health Care",
@@ -63,37 +62,34 @@
     ],
     "skills": [
       {
-        "name": "Git"
+        "name": "Git",
+        "level": "0%"
       },
      
       {
         "name": "ReactJs",
-        "level": "50%"
+        "level": "0%"
       },
       {
         "name": "CSS",
-        "level": "90%"
+        "level": "0%"
       },
       {
         "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "VueJs",
-        "level": "50%"
+        "level": "0%"
       },
       {
         "name": "MongoDB",
-        "level": "80%"
+        "level": "0%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Auth for ",
-        "category": "",
-        "image": "",
+        "title": "MERN Auth",
+        "category": "projects",
+        "image": "dying-z.png",
         "url": "https://github.com/ryanstocke/mern-auth"
       },
       {

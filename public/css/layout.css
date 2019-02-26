@@ -95,7 +95,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: rgb(204, 234, 235); }
+header .social li a:hover { color: #11ABB0; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -222,10 +222,10 @@ ul#nav li.current a { color: #F06000; }
 #about .download .button {
    margin-top: 6px;
    background: #444;
+   color: #fff;
 }
 #about .download .button:hover {
-   background: #fff;
-   color: #2B2B2B;
+   color: #11ABB0;
 }
 #about .download .button i {
    margin-right: 15px;
@@ -240,7 +240,7 @@ ul#nav li.current a { color: #F06000; }
 #resume {
    background: #2B2B2B;
    padding-top: 60px;
-   padding-bottom: 72px;
+   padding-bottom: 0px;
    overflow: hidden;
 }
 
@@ -284,7 +284,7 @@ ul#nav li.current a { color: #F06000; }
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
 }
-
+/* 
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
@@ -408,7 +408,7 @@ ul#nav li.current a { color: #F06000; }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
   100% { width: 50%;  }
-}
+} 
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
@@ -416,16 +416,17 @@ ul#nav li.current a { color: #F06000; }
 
 #portfolio {
    background: #2B2B2B;
-   padding-top: 90px;
+   padding-top: 60px;
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 18px/24px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
    color: #fff;
+   
 }
 
 /* Portfolio Content */
@@ -434,6 +435,9 @@ ul#nav li.current a { color: #F06000; }
    background: #2B2B2B;
    overflow: hidden;
    position: relative;
+   height: 350px;
+   max-height: 350px;
+   max-width: 250px;
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -443,6 +447,7 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap a {
    display: block;
    cursor: pointer;
+   
 }
 
 /* overlay */
@@ -461,13 +466,13 @@ ul#nav li.current a { color: #F06000; }
 	-moz-transition: opacity 0.3s ease-in-out;
 	-o-transition: opacity 0.3s ease-in-out;
 	transition: opacity 0.3s ease-in-out;
-
-   background: url(../images/ancient-arch.jpg) repeat;
+   background: #2B2B2B;
+   /* background: url(../images/ancient-arch.jpg) repeat; */
 }
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
-   height: 30px;
+   height: 0px;
    width: 30px;
    font-size: 18px;
    line-height: 30px;
@@ -500,6 +505,10 @@ ul#nav li.current a { color: #F06000; }
    font: 12px/18px 'opensans-light', sans-serif;
    color: #c6c7c7;
    margin-bottom: 0;
+}
+
+.item-description{
+   text-align: center;
 }
 
 /* on hover */
@@ -730,14 +739,14 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #fff;
    font-size: 14px;
    text-align: center;
    position: relative;
 }
 
-footer a, footer a:visited { color: #525252; }
-footer a:hover, footer a:focus { color: #fff; }
+footer a, footer a:visited { color: #fff; }
+footer a:hover, footer a:focus { color: #11ABB0; }
 
 /* copyright */
 footer .copyright {

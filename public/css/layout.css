@@ -34,6 +34,7 @@ header {
    min-height: 500px;
    width: 100%;
    background: #161415 no-repeat top center;
+   /* background: #161415 url(../images/header-background.jpg) no-repeat top center; */
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -435,7 +436,8 @@ ul#nav li.current a { color: #F06000; }
    background: #2B2B2B;
    overflow: hidden;
    position: relative;
-   height: 350px;
+   height: 250px;
+   width: 220px;
    max-height: 350px;
    max-width: 250px;
    -webkit-transition: all 0.3s ease-in-out;

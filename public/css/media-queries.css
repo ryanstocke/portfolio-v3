@@ -254,9 +254,18 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
-   #portfolio-wrapper .columns { margin-bottom: 40px; }
+   #portfolio-wrapper .columns { 
+      padding-top: 0;
+      margin-bottom: 48px;
+      text-align: center;
+   }
    .popup-modal {	max-width: 85%; }
-
+   
+   .portfolio-item {
+      text-align: center;
+      padding-left: 25%;
+      
+   }
 
    /* footer
    ------------------------------------------------------------------------ */
@@ -306,7 +315,50 @@
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
+   
+   /* portfolio section */
+   .portfolio-item {
+      text-align: center;
+      padding-left: 22%;
+      
+   }
+   /* footer
+   ------------------------------------------------------------------------ */
 
+   /* social links */
+   footer .social-links { font-size: 20px; }
+   footer .social-links li { margin-left: 14px; }   
+
+}
+
+@media only screen and (max-width: 320px) {
+
+   /* mobile navigation
+   -------------------------------------------------------------------- */
+   #nav-wrap ul#nav { width: auto; float: none; }
+
+   /* header styles
+   -------------------------------------------------------------------- */
+   header .banner { padding-top: 24px; }
+   header .banner-text h1 {
+      font: 40px/1.1em 'opensans-bold', sans-serif;      
+      margin: 0 auto 24px auto;
+   }
+   header .banner-text h3 {
+      font: 14px/1.9em 'librebaskerville-regular', sans-serif;
+      width: 90%;
+   }
+  
+   /* header social links */
+   header .social { font-size: 20px;}
+   header .social li { margin: 0 6px; }
+   
+   /* portfolio section */
+   .portfolio-item {
+      text-align: center;
+      padding-left: 15%;
+      
+   }
    /* footer
    ------------------------------------------------------------------------ */
 

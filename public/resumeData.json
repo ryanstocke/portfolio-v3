@@ -85,12 +85,12 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Auth",
+        "title": "MERN authentication app built for personal and group projects",
         "category": "projects",
         "image": "code-1.jpg",
         "url": "https://medieval-zombie-auth.herokuapp.com/",
-        "description": ["MERN", "\n authentication app built for personal and group projects"
-        ]},
+        "description": "Zombie roleplaying game to help you prepare for the apocalypse"
+        },
       {
         "title": "Train Scheduler",
         "category": "projects",

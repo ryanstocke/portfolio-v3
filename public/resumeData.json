@@ -89,7 +89,7 @@
         "category": "projects",
         "image": "code-1.jpg",
         "url": "https://medieval-zombie-auth.herokuapp.com/",
-        "description": "Zombie roleplaying game to help you prepare for the apocalypse"
+        "description": "Zombie roleplaying game to help you prepare for the apocalypse."
         },
       {
         "title": "Train Scheduler",
@@ -103,7 +103,7 @@
         "category": "projects",
         "image": "code-1.jpg",
         "url": "https://drive.google.com/file/d/1v-kRfk2FLNHQ0gIUDGPbtEL_AKHpHrXB/view",
-        "description": "Command line Node app that takes in parameters and gives you back data from the Node Spotify API        "
+        "description": "Command line Node app that takes in parameters and gives you back data from the Node Spotify API."
       }, 
       {
         "title": "Mongo Scraper",

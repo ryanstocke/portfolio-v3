@@ -85,30 +85,30 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN authentication app built for personal and group projects",
-        "category": "projects",
-        "image": "code-1.jpg",
+        "title": "MERN authentication app built for personal and group projects. Role: react front end, authentication, password hashing solution, deployment and the run.",
+        "category": " Built with: React, Passport, Express, Mongodb, Mongoose, Node, Reactstrap, Animate CSS, Phaser",
+        "image": "mztitle.PNG",
         "url": "https://medieval-zombie-auth.herokuapp.com/",
         "description": "Zombie roleplaying game to help you prepare for the apocalypse."
         },
       {
         "title": "Train Scheduler",
         "category": "projects",
-        "image": "code-1.jpg",
+        "image": "ancient-arch.jpg",
         "url": "https://ryanstocke.github.io/TrainScheduler/",
         "description": "Train schedule app that uses Firebase to store arrival and departure data."
       },
       {
         "title": "LIRI Node App",
         "category": "projects",
-        "image": "code-1.jpg",
+        "image": "node.png",
         "url": "https://drive.google.com/file/d/1v-kRfk2FLNHQ0gIUDGPbtEL_AKHpHrXB/view",
         "description": "Command line Node app that takes in parameters and gives you back data from the Node Spotify API."
       }, 
       {
         "title": "Mongo Scraper",
         "category": "projects",
-        "image": "code-1.jpg",
+        "image": "mongodb.png",
         "url": "https://calm-brushlands-89792.herokuapp.com/",
         "description": "Scraper app that scrapes the Path of Exile subreddit and returns the results."
       }

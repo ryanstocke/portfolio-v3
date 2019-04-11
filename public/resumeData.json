@@ -91,14 +91,14 @@
         "description": "Zombie roleplaying game to help you prepare for the apocalypse."
         },
       {
-        "title": "Train Scheduler app. Role: Front end design with Materialize, Firebase storage of user input, Run of the app.",
+        "title": "Firebase app. Role: Front end design with Materialize, Firebase storage of user input, Run of the app.",
         "category": "Built with: Firebase, Moment, Materialize",
         "image": "ancient-arch.jpg",
         "url": "https://ryanstocke.github.io/TrainScheduler/",
         "description": "Train schedule app that uses Firebase to store arrival and departure data."
       },
       {
-        "title": "LIRI Node App. Role: Conceptualize and implement a more user friendly command line app.",
+        "title": "Node App. Role: Conceptualize and implement a more user friendly command line app.",
         "category": "Built with: Axios, Inquirer, Node Spotify API",
         "image": "node.png",
         "url": "https://drive.google.com/file/d/1v-kRfk2FLNHQ0gIUDGPbtEL_AKHpHrXB/view",

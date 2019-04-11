@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Ryan Stocke",
+    "occupation": "Full Stack Web Developer",
+    "description": "looking for fulltime employment",
+    "image": "main.jpg",
+    "bio": "Dedicated full stack web developer with the capability to balance multiple priorities in fast-paced environments. Detail oriented worker with a proven ability to improve processes and implement change for benefit of the larger organization. Leadership and management experience, having managed full-time employees and interns. Collaborative team player with the ability to work across multiple functions in an agile project management environment.",
+    "contactmessage": "Contact",
+    "email": "ryanstocke@gmail.com",
+    "phone": "314-591-3223",
+    "address": {
+      "city": "Huntington Beach",
+      "state": "California",
+      "zip": "92648"
+    },
+    "website": "https://rms-portfolio-v3.herokuapp.com/",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ryan-stocke-16229571/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ryanstocke",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "skills",
+    "education": [
+      {
+        "school": "University of Denver",
+        "degree": "Full Stack Web Development",
+        "description": "Certified Full Stack Web Developer. Gained the technical skills to build full-stack applications from concept to deployment. Collaborated with peers to deliver functioning products with scalability. Troubleshooted issues with development as well as production deployment."
+      },
+      {
+        "school": "University of Missouri Columbia",
+        "degree": "Bachelor of Arts",
+        "description": "Major in Psychology, with Minor in Business Administration"
+      }
+    ],
+    "work": [
+      {
+        "company": "Children's Hospital Colorado",
+        "title": "Professional Technology Trainer ",
+        "years": "October 2015 - October 2018",
+        "description": "Assisted with designing and creating training programs, multimedia courses, computer-based training (CBT), web-based training programs, online learning modules, and online help for all levels of end-users and IT professionals. Set up training and development environments to test the delivery of the training to meet course needs. Created and maintained technical documentation and instruction material. Delivered training to a variety of audiences utilizing and applying adult learning principles."
+      },
+      {
+        "company": "SSM Health Care",
+        "title": "Epic Analyst ",
+        "years": " March 2014 – October 2015",
+        "description": [
+          "Maintain and control Provider Master File (SER) for the region, and responsible for the implementation, optimization, and maintenance of clinical systems.",
+          " Active in knowledge transfer and demo portions of Design, Build & Validate (DBV) sessions, as well as identifying areas of common practice to implement standardization and procedure streamlining"
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "0%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "0%"
+      },
+      {
+        "name": "CSS",
+        "level": "0%"
+      },
+      {
+        "name": "HTML5",
+        "level": "0%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "0%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "MERN authentication app. Role: react front end, authentication, password hashing solution, deployment and the run.",
+        "category": " Built with: React, Passport, Express, Mongodb, Mongoose, Node, Reactstrap, Animate CSS, Phaser",
+        "image": "mztitle.PNG",
+        "url": "https://medieval-zombie-auth.herokuapp.com/",
+        "description": "Zombie roleplaying game to help you prepare for the apocalypse."
+        },
+      {
+        "title": "Firebase app. Role: Front end design with Materialize, Firebase storage of user input, Run of the app.",
+        "category": "Built with: Firebase, Moment, Materialize",
+        "image": "ancient-arch.jpg",
+        "url": "https://ryanstocke.github.io/TrainScheduler/",
+        "description": "Train schedule app that uses Firebase to store arrival and departure data."
+      },
+      {
+        "title": "Node App. Role: Conceptualize and implement a more user friendly command line app.",
+        "category": "Built with: Axios, Inquirer, Node Spotify API",
+        "image": "node.png",
+        "url": "https://drive.google.com/file/d/1v-kRfk2FLNHQ0gIUDGPbtEL_AKHpHrXB/view",
+        "description": "Command line Node app that takes in parameters and gives you back data from the Node Spotify API."
+      }, 
+      {
+        "title": "Mongo Scraper app. Role: Design, Implement, Continually optimize for a better UX.",
+        "category": "Built with: Handlebars, Express, Mongoose",
+        "image": "mongodb.png",
+        "url": "https://calm-brushlands-89792.herokuapp.com/",
+        "description": "Scraper app that scrapes the Path of Exile subreddit and returns the results."
+      }
+    ]
+  }
+}
